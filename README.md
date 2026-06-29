@@ -1,3 +1,4 @@
+![logo](https://github.com/aasthachauhan1308-sys/aasthachauhan1308-sys/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aastha Chauhan</h1>
 <h3 align="center">A dedicated IT student from Gujarat, India, passionate about learning cybersecurity and web technologies</h3>
 
